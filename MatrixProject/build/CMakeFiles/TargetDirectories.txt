@@ -1,0 +1,4 @@
+/Users/saadaat/Documents/University/SEMO/6th Semester/CS380/Repo/operating-system/MatrixProject/build/CMakeFiles/MatrixMath.dir
+/Users/saadaat/Documents/University/SEMO/6th Semester/CS380/Repo/operating-system/MatrixProject/build/CMakeFiles/MatrixApp.dir
+/Users/saadaat/Documents/University/SEMO/6th Semester/CS380/Repo/operating-system/MatrixProject/build/CMakeFiles/edit_cache.dir
+/Users/saadaat/Documents/University/SEMO/6th Semester/CS380/Repo/operating-system/MatrixProject/build/CMakeFiles/rebuild_cache.dir

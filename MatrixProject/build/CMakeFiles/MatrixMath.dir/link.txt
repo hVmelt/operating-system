@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libMatrixMath.dylib -install_name @rpath/libMatrixMath.dylib CMakeFiles/MatrixMath.dir/matrix_math.cpp.o
